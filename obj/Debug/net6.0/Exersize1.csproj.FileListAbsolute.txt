@@ -1,0 +1,15 @@
+D:\VZ\Разное\GeekBrains\Программирование\Exersize1\bin\Debug\net6.0\Exersize1.exe
+D:\VZ\Разное\GeekBrains\Программирование\Exersize1\bin\Debug\net6.0\Exersize1.deps.json
+D:\VZ\Разное\GeekBrains\Программирование\Exersize1\bin\Debug\net6.0\Exersize1.runtimeconfig.json
+D:\VZ\Разное\GeekBrains\Программирование\Exersize1\bin\Debug\net6.0\Exersize1.dll
+D:\VZ\Разное\GeekBrains\Программирование\Exersize1\bin\Debug\net6.0\Exersize1.pdb
+D:\VZ\Разное\GeekBrains\Программирование\Exersize1\obj\Debug\net6.0\Exersize1.csproj.AssemblyReference.cache
+D:\VZ\Разное\GeekBrains\Программирование\Exersize1\obj\Debug\net6.0\Exersize1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VZ\Разное\GeekBrains\Программирование\Exersize1\obj\Debug\net6.0\Exersize1.AssemblyInfoInputs.cache
+D:\VZ\Разное\GeekBrains\Программирование\Exersize1\obj\Debug\net6.0\Exersize1.AssemblyInfo.cs
+D:\VZ\Разное\GeekBrains\Программирование\Exersize1\obj\Debug\net6.0\Exersize1.csproj.CoreCompileInputs.cache
+D:\VZ\Разное\GeekBrains\Программирование\Exersize1\obj\Debug\net6.0\Exersize1.dll
+D:\VZ\Разное\GeekBrains\Программирование\Exersize1\obj\Debug\net6.0\refint\Exersize1.dll
+D:\VZ\Разное\GeekBrains\Программирование\Exersize1\obj\Debug\net6.0\Exersize1.pdb
+D:\VZ\Разное\GeekBrains\Программирование\Exersize1\obj\Debug\net6.0\Exersize1.genruntimeconfig.cache
+D:\VZ\Разное\GeekBrains\Программирование\Exersize1\obj\Debug\net6.0\ref\Exersize1.dll
